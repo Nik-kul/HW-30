@@ -57,7 +57,7 @@
   box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
 }
 
-/* CTA */
+
 .cta-section {
   position: relative;
   padding: 90px 0;
@@ -68,3 +68,4 @@
   inset: 0;
   background: rgba(0, 0, 0, 0.55);
 }
+
